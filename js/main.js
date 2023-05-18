@@ -97,6 +97,7 @@ function createUI() {
     btnPlay.style.border = 'none'; // Remove border
     btnPlay.style.borderRadius = '4px'; // Add border radius
     btnPlay.style.cursor = 'pointer'; // Add cursor style
+	
 	let volumeBar = document.createElement('input');
     volumeBar.type = 'range';
     volumeBar.id = 'volumeBar';
