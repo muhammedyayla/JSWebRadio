@@ -4,19 +4,12 @@
 
 A simple javascript web radio (visualizer).
 
-Listen [here](https://victorribeiro.com/radio).
+Listen [here](https://muhammedyayla.github.io/JSWebRadio/).
 
 ## About
 
-This repo is a ongoing project that I've always wanted to do; some nice visualizations accompanied of good music. Growing up playing with computers I always loved [demo scenes](https://en.wikipedia.org/wiki/Demoscene) and this is nothing but a homage to that era.
+This repo is a ongoing project that I've always wanted to do; some nice visualizations accompanied of good music.
 
-## Radios 
-
-[BoxUK](https://boxuk.danceradiouk.com)
-
-[Classic Rock Florida](https://www.classicrockflorida.com)
-
-Do you have a web radio? Join the project!
 
 ## How to contribute an animation
 
